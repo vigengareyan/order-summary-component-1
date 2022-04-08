@@ -114,6 +114,7 @@ button {
   background-color: hsl(245, 75%, 52%);
   color: white;
   box-shadow: 0px 5px 20px  hsl(224, 23%, 55%);
+  cursor: pointer;
 }
 
 /* Since none of the colors in style guide gives needed effect while hover, we choose it experimentally */
